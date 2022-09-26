@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-20T07:25:09Z" name="Default suite" finished-at="2021-01-20T07:25:21Z" duration-ms="11997">
+    <groups>
+    </groups>
+    <test started-at="2021-01-20T07:25:09Z" name="Default test" finished-at="2021-01-20T07:25:21Z" duration-ms="11997">
+      <class name="com.express.qa.testdata.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.express.qa.testdata.LoginPageTest@1787bc24]" started-at="2021-01-20T02:25:09Z" name="setUp" finished-at="2021-01-20T02:25:15Z" duration-ms="6066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.express.qa.testdata.LoginPageTest@1787bc24]" started-at="2021-01-20T02:25:15Z" name="loginTest" finished-at="2021-01-20T02:25:20Z" duration-ms="5248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.express.qa.testdata.LoginPageTest@1787bc24]" started-at="2021-01-20T02:25:20Z" name="tearDown" finished-at="2021-01-20T02:25:21Z" duration-ms="669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.express.qa.testdata.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
